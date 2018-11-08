@@ -11,7 +11,6 @@ function forLoop(array) {
     else {
     }
   }
-  console.log(array);
   return array;
 }
 
