@@ -1,10 +1,10 @@
 function forLoop(array) {
   for (var i = 1; i < 26; i++) {
     if (i === 1) {
-      array = array + "I am 1 strange loop.";
+      array =`I am ${i} strange loop.`;
     }
     else {
-      array = array + `I am ${i} strange loops.`;
+      array =`I am ${i} strange loops.`;
       console.log(array);
     }
   }
