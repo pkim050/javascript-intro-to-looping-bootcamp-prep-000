@@ -1,4 +1,4 @@
-function forLoop(array) {
+/*function forLoop(array) {
   for (var i = 0; i < 25; i++) {
     if (i = 1) {
       array = "I am 1 strange loop.";
@@ -16,7 +16,7 @@ function whileLoop(number) {
   }
   return "done";
 }
-/*
+
 var j = 0;
 function incrementVariable() {
   j = j - 1;
